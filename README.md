@@ -22,19 +22,19 @@
 
 | <sub>ACCEPTED SOLUTIONS</sub> | <sub>PRIMARY LANGUAGE</sub> | <sub>PROBLEM METADATA</sub> |
 |:---:|:---:|:---:|
-| <h2>17</h2> | <h2>C++</h2> | <h2>17/17</h2> |
-| ![Solutions](https://img.shields.io/badge/solutions-17-2ea44f?style=for-the-badge) | ![Language](https://img.shields.io/badge/C%2B%2B-100%25-00599C?style=for-the-badge) | ![Metadata](https://img.shields.io/badge/metadata-matched-8957e5?style=for-the-badge) |
+| <h2>19</h2> | <h2>C++</h2> | <h2>19/19</h2> |
+| ![Solutions](https://img.shields.io/badge/solutions-19-2ea44f?style=for-the-badge) | ![Language](https://img.shields.io/badge/C%2B%2B-100%25-00599C?style=for-the-badge) | ![Metadata](https://img.shields.io/badge/metadata-matched-8957e5?style=for-the-badge) |
 
 </div>
 
 | Codeforces rating | Solutions |
 |:--|--:|
-| 800 | 17 |
+| 800 | 19 |
 | 900–1199 | 0 |
 | 1200–1399 | 0 |
 | 1400+ | 0 |
 
-<sub>Statistics are refreshed by GitHub Actions using repository files and Codeforces problem metadata.</sub>
+<sub>Generated from repository C++ files and the Codeforces Problemset API. Unrated or unmatched files are not included in rating buckets.</sub>
 <!-- STATS:END -->
 
 ## 🧩 Solution Index
