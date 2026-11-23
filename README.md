@@ -6,7 +6,7 @@
 
 [![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/platform-Codeforces-1f8acb?style=for-the-badge)](https://codeforces.com/)
-[![Solutions](https://img.shields.io/badge/solutions-19-2ea44f?style=for-the-badge)](#-statistics)
+[![Solutions](https://img.shields.io/badge/solutions-20-2ea44f?style=for-the-badge)](#-statistics)
 [![Sync](https://img.shields.io/badge/sync-Codeforces%20extension-8957e5?style=for-the-badge)](#-synchronization)
 
 [**Browse solutions**](#-solution-index) · [**Statistics**](#-statistics) · [**Topics**](#-topics) · [**Codeforces profile**](https://codeforces.com/profile/AmnaIhsan)
@@ -22,8 +22,8 @@
 
 | <sub>ACCEPTED SOLUTIONS</sub> | <sub>PRIMARY LANGUAGE</sub> | <sub>PROBLEM METADATA</sub> |
 |:---:|:---:|:---:|
-| <h2>19</h2> | <h2>C++</h2> | <h2>19/19</h2> |
-| ![Solutions](https://img.shields.io/badge/solutions-19-2ea44f?style=for-the-badge) | ![Language](https://img.shields.io/badge/C%2B%2B-100%25-00599C?style=for-the-badge) | ![Metadata](https://img.shields.io/badge/metadata-matched-8957e5?style=for-the-badge) |
+| <h2>20</h2> | <h2>C++</h2> | <h2>20/20</h2> |
+| ![Solutions](https://img.shields.io/badge/solutions-20-2ea44f?style=for-the-badge) | ![Language](https://img.shields.io/badge/C%2B%2B-100%25-00599C?style=for-the-badge) | ![Metadata](https://img.shields.io/badge/metadata-matched-8957e5?style=for-the-badge) |
 
 </div>
 
@@ -32,7 +32,7 @@
 | Codeforces rating | Solutions |
 |:--|--:|
 | 800 | 19 |
-| 900–1199 | 0 |
+| 900–1199 | 1 |
 | 1200–1399 | 0 |
 | 1400+ | 0 |
 
@@ -42,10 +42,12 @@
 |:--|--:|
 | Implementation | 15 |
 | Strings | 8 |
-| Math | 4 |
+| Math | 5 |
 | Brute Force | 3 |
-| Greedy | 2 |
+| Greedy | 3 |
+| Data Structures | 1 |
 | Sorting | 1 |
+| Two Pointers | 1 |
 
 <sub>Generated from repository C++ files and the Codeforces Problemset API. Topic totals overlap when a problem has multiple tags.</sub>
 <!-- STATS:END -->
@@ -74,6 +76,7 @@
 | 17 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 791 | 800 | Implementation | [C++](791A_Bear_and_Big_Brother.cpp) |
 | 18 | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 1030 | 800 | Implementation | [C++](1030A_In_Search_of_an_Easy_Problem.cpp) |
 | 19 | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 1328 | 800 | Math | [C++](1328A_Divisibility_Problem.cpp) |
+| 20 | [Subtract Operation](https://codeforces.com/problemset/problem/1656/B) | 1656 | 1100 | Data Structures, Greedy, Math, Two Pointers | [C++](1656B_Subtract_Operation.cpp) |
 <!-- SOLUTIONS:END -->
 
 ## 📚 Topics
@@ -89,9 +92,17 @@
 </details>
 
 <details>
-<summary><b>Greedy</b> (2)</summary>
+<summary><b>Data Structures</b> (1)</summary>
+
+- [Subtract Operation](1656B_Subtract_Operation.cpp)
+
+</details>
+
+<details>
+<summary><b>Greedy</b> (3)</summary>
 
 - [Helpful Maths](339A_Helpful_Maths.cpp)
+- [Subtract Operation](1656B_Subtract_Operation.cpp)
 - [Team](231A_Team.cpp)
 
 </details>
@@ -118,11 +129,12 @@
 </details>
 
 <details>
-<summary><b>Math</b> (4)</summary>
+<summary><b>Math</b> (5)</summary>
 
 - [Calculating Function](486A_Calculating_Function.cpp)
 - [Divisibility Problem](1328A_Divisibility_Problem.cpp)
 - [Drinks](200B_Drinks.cpp)
+- [Subtract Operation](1656B_Subtract_Operation.cpp)
 - [Watermelon](4A_Watermelon.cpp)
 
 </details>
@@ -145,6 +157,13 @@
 - [Way Too Long Words](71A_Way_Too_Long_Words.cpp)
 - [Word](59A_Word.cpp)
 - [Word Capitalization](281A_Word_Capitalization.cpp)
+
+</details>
+
+<details>
+<summary><b>Two Pointers</b> (1)</summary>
+
+- [Subtract Operation](1656B_Subtract_Operation.cpp)
 
 </details>
 <!-- TOPICS:END -->
