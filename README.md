@@ -2,155 +2,165 @@
 
 # 🏆 Codeforces Solutions
 
-**C++ solutions synced directly from Codeforces**
+### A growing archive of accepted Codeforces problems — solved in C++
 
-[![C++](https://img.shields.io/badge/Language-C++-blue.svg)](https://isocpp.org/)
-[![Problems](https://img.shields.io/badge/Problems-17-brightgreen.svg)](#-solution-index)
-[![Codeforces](https://img.shields.io/badge/Platform-Codeforces-red.svg)](https://codeforces.com/)
-[![Sync](https://img.shields.io/badge/Sync-Auto--updated-success.svg)](#-auto-sync-with-codeforces)
+[![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
+[![Platform](https://img.shields.io/badge/platform-Codeforces-1f8acb?style=for-the-badge)](https://codeforces.com/)
+[![Solutions](https://img.shields.io/badge/solutions-19-2ea44f?style=for-the-badge)](#-statistics)
+[![Sync](https://img.shields.io/badge/sync-Codeforces%20extension-8957e5?style=for-the-badge)](#-synchronization)
 
-<br>
-
-A curated collection of accepted Codeforces solutions, automatically organized and committed as I progress.
-
-[Browse Solutions](#-solution-index) • [Topics](#-topics) • [Difficulty](#-difficulty) • [Sync](#-auto-sync-with-codeforces)
+[**Browse solutions**](#-solution-index) · [**Statistics**](#-statistics) · [**Topics**](#-topics) · [**Codeforces profile**](https://codeforces.com/profile/AmnaIhsan)
 
 </div>
 
 ---
 
-## ✨ Highlights
+## 📊 Statistics
 
-- **Language:** C++ (`100%`)
-- **Automatic tracking:** Accepted submissions are synced into this repository
-- **Live progress:** The index is updated as new solutions are committed
-- **Current collection:** 17 accepted solutions
-- **Clean organization:** Problem ID, title, topic, contest, difficulty, and solution
+<!-- STATS:START -->
+<div align="center">
 
----
+| <sub>ACCEPTED SOLUTIONS</sub> | <sub>PRIMARY LANGUAGE</sub> | <sub>PROBLEM METADATA</sub> |
+|:---:|:---:|:---:|
+| <h2>19</h2> | <h2>C++</h2> | <h2>19/19</h2> |
+| ![Solutions](https://img.shields.io/badge/solutions-19-2ea44f?style=for-the-badge) | ![Language](https://img.shields.io/badge/C%2B%2B-100%25-00599C?style=for-the-badge) | ![Metadata](https://img.shields.io/badge/metadata-matched-8957e5?style=for-the-badge) |
 
-## 📊 Progress Dashboard
+</div>
 
-| Metric | Status |
-|:--|:--|
-| Accepted solutions | ![Progress](https://img.shields.io/badge/17%20Solutions-brightgreen) |
-| Primary language | ![C++](https://img.shields.io/badge/C++-100%25-blue) |
-| Sync method | Codeforces GitHub Sync Extension |
-| Submission source | Direct from accepted Codeforces verdicts |
-| Organization | Topic, contest, and difficulty |
----
+### Difficulty distribution
+
+| Codeforces rating | Solutions |
+|:--|--:|
+| 800 | 19 |
+| 900–1199 | 0 |
+| 1200–1399 | 0 |
+| 1400+ | 0 |
+
+### Topic distribution
+
+| Topic | Problems |
+|:--|--:|
+| Implementation | 15 |
+| Strings | 8 |
+| Math | 4 |
+| Brute Force | 3 |
+| Greedy | 2 |
+| Sorting | 1 |
+
+<sub>Generated from repository C++ files and the Codeforces Problemset API. Topic totals overlap when a problem has multiple tags.</sub>
+<!-- STATS:END -->
 
 ## 🧩 Solution Index
 
-### Problem-by-Problem
-
-| # | Problem | Contest | Difficulty | Topic | Solution |
-|---:|:--|:--|:--|:--|:--|
-| 1 | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 1030 | 🟢 800 | Implementation | [C++](1030A_In_Search_of_an_Easy_Problem.cpp) |
-| 2 | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 110 | 🟢 800 | Implementation, Math | [C++](110A_Nearly_Lucky_Number.cpp) |
-| 3 | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 112 | 🟢 800 | Strings, Implementation | [C++](112A_Petya_and_Strings.cpp) |
-| 4 | [Drinks](https://codeforces.com/problemset/problem/200/B) | 200 | 🟢 800 | Math, Implementation | [C++](200B_Drinks.cpp) |
-| 5 | [Team](https://codeforces.com/problemset/problem/231/A) | 231 | 🟢 800 | Implementation, Brute Force | [C++](231A_Team.cpp) |
-| 6 | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 236 | 🟢 800 | Strings, Implementation | [C++](236A_Boy_or_Girl.cpp) |
-| 7 | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 281 | 🟢 800 | Strings, Implementation | [C++](281A_Word_Capitalization.cpp) |
-| 8 | [Bit++](https://codeforces.com/problemset/problem/282/A) | 282 | 🟢 800 | Implementation | [C++](282A_Bit.cpp) |
-| 9 | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 339 | 🟢 800 | Sorting, Strings | [C++](339A_Helpful_Maths.cpp) |
-| 10 | [Translation](https://codeforces.com/problemset/problem/41/A) | 41 | 🟢 800 | Strings | [C++](41A_Translation.cpp) |
-| 11 | [George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 467 | 🟢 800 | Implementation | [C++](467A_George_and_Accommodation.cpp) |
-| 12 | [Calculating Function](https://codeforces.com/problemset/problem/486/A) | 486 | 🟢 800 | Math | [C++](486A_Calculating_Function.cpp) |
-| 13 | [Watermelon](https://codeforces.com/problemset/problem/4/A) | 4 | 🟢 800 | Math, Brute Force | [C++](4A_Watermelon.cpp) |
-| 14 | [Word](https://codeforces.com/problemset/problem/59/A) | 59 | 🟢 800 | Strings, Implementation | [C++](59A_Word.cpp) |
-| 15 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 71 | 🟢 800 | Strings | [C++](71A_Way_Too_Long_Words.cpp) |
-| 16 | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 734 | 🟢 800 | Strings, Implementation | [C++](734A_Anton_and_Danik.cpp) |
-| 17 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 791 | 🟢 800 | Implementation, Math | [C++](791A_Bear_and_Big_Brother.cpp) |
-
----
+<!-- SOLUTIONS:START -->
+| # | Problem | Contest | Rating | Topics | Solution |
+|--:|:--|--:|--:|:--|:--:|
+| 1 | [Watermelon](https://codeforces.com/problemset/problem/4/A) | 4 | 800 | Brute Force, Math | [C++](4A_Watermelon.cpp) |
+| 2 | [Translation](https://codeforces.com/problemset/problem/41/A) | 41 | 800 | Implementation, Strings | [C++](41A_Translation.cpp) |
+| 3 | [Word](https://codeforces.com/problemset/problem/59/A) | 59 | 800 | Implementation, Strings | [C++](59A_Word.cpp) |
+| 4 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 71 | 800 | Strings | [C++](71A_Way_Too_Long_Words.cpp) |
+| 5 | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 110 | 800 | Implementation | [C++](110A_Nearly_Lucky_Number.cpp) |
+| 6 | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 112 | 800 | Implementation, Strings | [C++](112A_Petya_and_Strings.cpp) |
+| 7 | [Drinks](https://codeforces.com/problemset/problem/200/B) | 200 | 800 | Implementation, Math | [C++](200B_Drinks.cpp) |
+| 8 | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | 228 | 800 | Implementation | [C++](228A_Is_your_horseshoe_on_the_other_hoof.cpp) |
+| 9 | [Team](https://codeforces.com/problemset/problem/231/A) | 231 | 800 | Brute Force, Greedy | [C++](231A_Team.cpp) |
+| 10 | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 236 | 800 | Brute Force, Implementation, Strings | [C++](236A_Boy_or_Girl.cpp) |
+| 11 | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 281 | 800 | Implementation, Strings | [C++](281A_Word_Capitalization.cpp) |
+| 12 | [Bit++](https://codeforces.com/problemset/problem/282/A) | 282 | 800 | Implementation | [C++](282A_Bit.cpp) |
+| 13 | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 339 | 800 | Greedy, Implementation, Sorting, Strings | [C++](339A_Helpful_Maths.cpp) |
+| 14 | [George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 467 | 800 | Implementation | [C++](467A_George_and_Accommodation.cpp) |
+| 15 | [Calculating Function](https://codeforces.com/problemset/problem/486/A) | 486 | 800 | Implementation, Math | [C++](486A_Calculating_Function.cpp) |
+| 16 | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 734 | 800 | Implementation, Strings | [C++](734A_Anton_and_Danik.cpp) |
+| 17 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 791 | 800 | Implementation | [C++](791A_Bear_and_Big_Brother.cpp) |
+| 18 | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 1030 | 800 | Implementation | [C++](1030A_In_Search_of_an_Easy_Problem.cpp) |
+| 19 | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 1328 | 800 | Math | [C++](1328A_Divisibility_Problem.cpp) |
+<!-- SOLUTIONS:END -->
 
 ## 📚 Topics
 
-### 🧮 Mathematics
+<!-- TOPICS:START -->
+<details>
+<summary><b>Brute Force</b> (3)</summary>
 
-- [Nearly Lucky Number](110A_Nearly_Lucky_Number.cpp)
-- [Drinks](200B_Drinks.cpp)
-- [Calculating Function](486A_Calculating_Function.cpp)
-- [Watermelon](4A_Watermelon.cpp)
-- [Bear and Big Brother](791A_Bear_and_Big_Brother.cpp)
-
-### 🔤 Strings
-
-- [Petya and Strings](112A_Petya_and_Strings.cpp)
 - [Boy or Girl](236A_Boy_or_Girl.cpp)
-- [Word Capitalization](281A_Word_Capitalization.cpp)
+- [Team](231A_Team.cpp)
+- [Watermelon](4A_Watermelon.cpp)
+
+</details>
+
+<details>
+<summary><b>Greedy</b> (2)</summary>
+
 - [Helpful Maths](339A_Helpful_Maths.cpp)
+- [Team](231A_Team.cpp)
+
+</details>
+
+<details>
+<summary><b>Implementation</b> (15)</summary>
+
+- [Anton and Danik](734A_Anton_and_Danik.cpp)
+- [Bear and Big Brother](791A_Bear_and_Big_Brother.cpp)
+- [Bit++](282A_Bit.cpp)
+- [Boy or Girl](236A_Boy_or_Girl.cpp)
+- [Calculating Function](486A_Calculating_Function.cpp)
+- [Drinks](200B_Drinks.cpp)
+- [George and Accommodation](467A_George_and_Accommodation.cpp)
+- [Helpful Maths](339A_Helpful_Maths.cpp)
+- [In Search of an Easy Problem](1030A_In_Search_of_an_Easy_Problem.cpp)
+- [Is your horseshoe on the other hoof?](228A_Is_your_horseshoe_on_the_other_hoof.cpp)
+- [Nearly Lucky Number](110A_Nearly_Lucky_Number.cpp)
+- [Petya and Strings](112A_Petya_and_Strings.cpp)
 - [Translation](41A_Translation.cpp)
 - [Word](59A_Word.cpp)
-- [Way Too Long Words](71A_Way_Too_Long_Words.cpp)
-- [Anton and Danik](734A_Anton_and_Danik.cpp)
-
-### ⚙️ Implementation
-
-- [In Search of an Easy Problem](1030A_In_Search_of_an_Easy_Problem.cpp)
-- [Nearly Lucky Number](110A_Nearly_Lucky_Number.cpp)
-- [Petya and Strings](112A_Petya_and_Strings.cpp)
-- [Drinks](200B_Drinks.cpp)
-- [Team](231A_Team.cpp)
-- [Boy or Girl](236A_Boy_or_Girl.cpp)
 - [Word Capitalization](281A_Word_Capitalization.cpp)
-- [Bit++](282A_Bit.cpp)
-- [George and Accommodation](467A_George_and_Accommodation.cpp)
-- [Bear and Big Brother](791A_Bear_and_Big_Brother.cpp)
 
-### 🗂️ Sorting & Brute Force
+</details>
 
-- [Helpful Maths](339A_Helpful_Maths.cpp)
-- [Team](231A_Team.cpp)
+<details>
+<summary><b>Math</b> (4)</summary>
+
+- [Calculating Function](486A_Calculating_Function.cpp)
+- [Divisibility Problem](1328A_Divisibility_Problem.cpp)
+- [Drinks](200B_Drinks.cpp)
 - [Watermelon](4A_Watermelon.cpp)
 
----
+</details>
 
-## 🎯 Difficulty
+<details>
+<summary><b>Sorting</b> (1)</summary>
 
-| Rating | Count | Progress |
-|:--|--:|:--|
-| 🟢 800 | 17 | `████████████████████` |
-| 🟡 900–1199 | 0 | `--------------------` |
-| 🟠 1200–1399 | 0 | `--------------------` |
-| 🔴 1400+ | 0 | `--------------------` |
+- [Helpful Maths](339A_Helpful_Maths.cpp)
 
----
+</details>
 
-## 🏟️ Contest Collection
+<details>
+<summary><b>Strings</b> (8)</summary>
 
-| Contest | Problems |
-|:--|:--|
-| 4 | [Watermelon](4A_Watermelon.cpp) |
-| 41 | [Translation](41A_Translation.cpp) |
-| 59 | [Word](59A_Word.cpp) |
-| 71 | [Way Too Long Words](71A_Way_Too_Long_Words.cpp) |
-| 110 | [Nearly Lucky Number](110A_Nearly_Lucky_Number.cpp) |
-| 112 | [Petya and Strings](112A_Petya_and_Strings.cpp) |
-| 200 | [Drinks](200B_Drinks.cpp) |
-| 231 | [Team](231A_Team.cpp) |
-| 236 | [Boy or Girl](236A_Boy_or_Girl.cpp) |
-| 281 | [Word Capitalization](281A_Word_Capitalization.cpp) |
-| 282 | [Bit++](282A_Bit.cpp) |
-| 339 | [Helpful Maths](339A_Helpful_Maths.cpp) |
-| 467 | [George and Accommodation](467A_George_and_Accommodation.cpp) |
-| 486 | [Calculating Function](486A_Calculating_Function.cpp) |
-| 734 | [Anton and Danik](734A_Anton_and_Danik.cpp) |
-| 791 | [Bear and Big Brother](791A_Bear_and_Big_Brother.cpp) |
-| 1030 | [In Search of an Easy Problem](1030A_In_Search_of_an_Easy_Problem.cpp) |
+- [Anton and Danik](734A_Anton_and_Danik.cpp)
+- [Boy or Girl](236A_Boy_or_Girl.cpp)
+- [Helpful Maths](339A_Helpful_Maths.cpp)
+- [Petya and Strings](112A_Petya_and_Strings.cpp)
+- [Translation](41A_Translation.cpp)
+- [Way Too Long Words](71A_Way_Too_Long_Words.cpp)
+- [Word](59A_Word.cpp)
+- [Word Capitalization](281A_Word_Capitalization.cpp)
 
----
+</details>
+<!-- TOPICS:END -->
 
----
+## 🔄 Synchronization
 
-## 💻 Technology
+Accepted submissions are synced using the **Codeforces GitHub Sync Extension**. The statistics workflow is separate: it scans C++ files, fetches Codeforces metadata, and refreshes the dashboard, solution index, and topic tables.
 
-- **Primary language:** C++
-- **Platform:** [Codeforces](https://codeforces.com/)
-- **Sync:** Codeforces GitHub Sync Extension
-- **Submission status:** Accepted solutions
+> The extension currently pushes to the original repository. Once this workflow is merged into the original repository's default branch, new solution pushes there will refresh the README automatically.
+
+## 🛠️ Tech Stack
+
+- **Language:** C++
+- **Online judge:** [Codeforces](https://codeforces.com/)
+- **Solution sync:** Codeforces GitHub Sync Extension
+- **Dashboard automation:** GitHub Actions + Python
 
 ---
 
@@ -158,6 +168,6 @@ A curated collection of accepted Codeforces solutions, automatically organized a
 
 ### 🌱 One problem at a time. One accepted solution at a time.
 
-**[Visit my Codeforces profile](https://codeforces.com/profile/AmnaIhsan)**
+[**View Codeforces Profile →**](https://codeforces.com/profile/AmnaIhsan)
 
 </div>
