@@ -6,7 +6,7 @@
 
 [![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/platform-Codeforces-1f8acb?style=for-the-badge)](https://codeforces.com/)
-[![Solutions](https://img.shields.io/badge/solutions-17-2ea44f?style=for-the-badge)](#-statistics)
+[![Solutions](https://img.shields.io/badge/solutions-19-2ea44f?style=for-the-badge)](#-statistics)
 [![Sync](https://img.shields.io/badge/sync-Codeforces%20extension-8957e5?style=for-the-badge)](#-synchronization)
 
 [**Browse solutions**](#-solution-index) · [**Statistics**](#-statistics) · [**Topics**](#-topics) · [**Codeforces profile**](https://codeforces.com/profile/AmnaIhsan)
@@ -27,6 +27,8 @@
 
 </div>
 
+### Difficulty distribution
+
 | Codeforces rating | Solutions |
 |:--|--:|
 | 800 | 19 |
@@ -34,11 +36,22 @@
 | 1200–1399 | 0 |
 | 1400+ | 0 |
 
-<sub>Generated from repository C++ files and the Codeforces Problemset API. Unrated or unmatched files are not included in rating buckets.</sub>
+### Topic distribution
+
+| Topic | Problems |
+|:--|--:|
+| Implementation | 11 |
+| Strings | 8 |
+| Math | 6 |
+| Brute Force | 2 |
+| Sorting | 1 |
+
+<sub>Generated from repository C++ files and the Codeforces Problemset API. Topic and rating totals may overlap because a problem can have multiple tags.</sub>
 <!-- STATS:END -->
 
 ## 🧩 Solution Index
 
+<!-- SOLUTIONS:START -->
 | # | Problem | Contest | Rating | Topics | Solution |
 |--:|:--|--:|--:|:--|:--:|
 | 1 | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 1030 | 800 | Implementation | [C++](1030A_In_Search_of_an_Easy_Problem.cpp) |
@@ -58,9 +71,13 @@
 | 15 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 71 | 800 | Strings | [C++](71A_Way_Too_Long_Words.cpp) |
 | 16 | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 734 | 800 | Strings, Implementation | [C++](734A_Anton_and_Danik.cpp) |
 | 17 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 791 | 800 | Math, Implementation | [C++](791A_Bear_and_Big_Brother.cpp) |
+| 18 | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 1328 | 800 | Math | [C++](1328A_Divisibility_Problem.cpp) |
+| 19 | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | 228 | 800 | Implementation | [C++](228A_Is_your_horseshoe_on_the_other_hoof.cpp) |
+<!-- SOLUTIONS:END -->
 
 ## 📚 Topics
 
+<!-- TOPICS:START -->
 <details>
 <summary><b>🧮 Mathematics</b></summary>
 
@@ -69,6 +86,7 @@
 - [Calculating Function](486A_Calculating_Function.cpp)
 - [Watermelon](4A_Watermelon.cpp)
 - [Bear and Big Brother](791A_Bear_and_Big_Brother.cpp)
+- [Divisibility Problem](1328A_Divisibility_Problem.cpp)
 
 </details>
 
@@ -99,6 +117,7 @@
 - [Bit++](282A_Bit.cpp)
 - [George and Accommodation](467A_George_and_Accommodation.cpp)
 - [Bear and Big Brother](791A_Bear_and_Big_Brother.cpp)
+- [Is your horseshoe on the other hoof?](228A_Is_your_horseshoe_on_the_other_hoof.cpp)
 
 </details>
 
@@ -110,12 +129,13 @@
 - [Watermelon](4A_Watermelon.cpp)
 
 </details>
+<!-- TOPICS:END -->
 
 ## 🔄 Synchronization
 
-Accepted submissions are synced using the **Codeforces GitHub Sync Extension**. The statistics workflow is separate: it scans the C++ files in this repository and refreshes the dashboard.
+Accepted submissions are synced using the **Codeforces GitHub Sync Extension**. The statistics workflow is separate: it scans C++ files, fetches Codeforces metadata, and refreshes the dashboard, solution index, and topic tables.
 
-> The extension currently pushes to the original repository. The workflow in this contribution branch will run for pushes to this fork and on its daily schedule. Once merged, it can run in the original repository too.
+> The extension currently pushes to the original repository. Once this workflow is merged into the original repository's default branch, new solution pushes there will refresh the README automatically.
 
 ## 🛠️ Tech Stack
 
