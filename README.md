@@ -6,7 +6,7 @@
 
 [![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/platform-Codeforces-1f8acb?style=for-the-badge)](https://codeforces.com/)
-[![Solutions](https://img.shields.io/badge/solutions-23-2ea44f?style=for-the-badge)](#-statistics)
+[![Solutions](https://img.shields.io/badge/solutions-24-2ea44f?style=for-the-badge)](#-statistics)
 [![Sync](https://img.shields.io/badge/sync-Codeforces%20extension-8957e5?style=for-the-badge)](#-synchronization)
 
 [**Browse solutions**](#-solution-index) · [**Statistics**](#-statistics) · [**Topics**](#-topics) · [**Codeforces profile**](https://codeforces.com/profile/AmnaIhsan)
@@ -22,8 +22,8 @@
 
 | <sub>ACCEPTED SOLUTIONS</sub> | <sub>PRIMARY LANGUAGE</sub> | <sub>PROBLEM METADATA</sub> |
 |:---:|:---:|:---:|
-| <h2>23</h2> | <h2>C++</h2> | <h2>23/23</h2> |
-| ![Solutions](https://img.shields.io/badge/solutions-23-2ea44f?style=for-the-badge) | ![Language](https://img.shields.io/badge/C%2B%2B-100%25-00599C?style=for-the-badge) | ![Metadata](https://img.shields.io/badge/metadata-matched-8957e5?style=for-the-badge) |
+| <h2>24</h2> | <h2>C++</h2> | <h2>24/24</h2> |
+| ![Solutions](https://img.shields.io/badge/solutions-24-2ea44f?style=for-the-badge) | ![Language](https://img.shields.io/badge/C%2B%2B-100%25-00599C?style=for-the-badge) | ![Metadata](https://img.shields.io/badge/metadata-matched-8957e5?style=for-the-badge) |
 
 </div>
 
@@ -31,7 +31,7 @@
 
 | Codeforces rating | Solutions |
 |:--|--:|
-| 800 | 22 |
+| 800 | 23 |
 | 900–1199 | 1 |
 | 1200–1399 | 0 |
 | 1400+ | 0 |
@@ -40,8 +40,8 @@
 
 | Topic | Problems |
 |:--|--:|
-| Implementation | 17 |
-| Strings | 8 |
+| Implementation | 18 |
+| Strings | 9 |
 | Math | 5 |
 | Brute Force | 4 |
 | Greedy | 3 |
@@ -74,12 +74,13 @@
 | 15 | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 339 | 800 | Greedy, Implementation, Sorting, Strings | [C++](339A_Helpful_Maths.cpp) |
 | 16 | [George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 467 | 800 | Implementation | [C++](467A_George_and_Accommodation.cpp) |
 | 17 | [Calculating Function](https://codeforces.com/problemset/problem/486/A) | 486 | 800 | Implementation, Math | [C++](486A_Calculating_Function.cpp) |
-| 18 | [Hulk](https://codeforces.com/problemset/problem/705/A) | 705 | 800 | Implementation | [C++](705A_Hulk.cpp) |
-| 19 | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 734 | 800 | Implementation, Strings | [C++](734A_Anton_and_Danik.cpp) |
-| 20 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 791 | 800 | Implementation | [C++](791A_Bear_and_Big_Brother.cpp) |
-| 21 | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 1030 | 800 | Implementation | [C++](1030A_In_Search_of_an_Easy_Problem.cpp) |
-| 22 | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 1328 | 800 | Math | [C++](1328A_Divisibility_Problem.cpp) |
-| 23 | [Subtract Operation](https://codeforces.com/problemset/problem/1656/B) | 1656 | 1100 | Data Structures, Greedy, Math, Two Pointers | [C++](1656B_Subtract_Operation.cpp) |
+| 18 | [Pangram](https://codeforces.com/problemset/problem/520/A) | 520 | 800 | Implementation, Strings | [C++](520A_Pangram.cpp) |
+| 19 | [Hulk](https://codeforces.com/problemset/problem/705/A) | 705 | 800 | Implementation | [C++](705A_Hulk.cpp) |
+| 20 | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 734 | 800 | Implementation, Strings | [C++](734A_Anton_and_Danik.cpp) |
+| 21 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 791 | 800 | Implementation | [C++](791A_Bear_and_Big_Brother.cpp) |
+| 22 | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 1030 | 800 | Implementation | [C++](1030A_In_Search_of_an_Easy_Problem.cpp) |
+| 23 | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 1328 | 800 | Math | [C++](1328A_Divisibility_Problem.cpp) |
+| 24 | [Subtract Operation](https://codeforces.com/problemset/problem/1656/B) | 1656 | 1100 | Data Structures, Greedy, Math, Two Pointers | [C++](1656B_Subtract_Operation.cpp) |
 <!-- SOLUTIONS:END -->
 
 ## 📚 Topics
@@ -112,7 +113,7 @@
 </details>
 
 <details>
-<summary><b>Implementation</b> (17)</summary>
+<summary><b>Implementation</b> (18)</summary>
 
 - [Anton and Danik](734A_Anton_and_Danik.cpp)
 - [Bear and Big Brother](791A_Bear_and_Big_Brother.cpp)
@@ -126,6 +127,7 @@
 - [In Search of an Easy Problem](1030A_In_Search_of_an_Easy_Problem.cpp)
 - [Is your horseshoe on the other hoof?](228A_Is_your_horseshoe_on_the_other_hoof.cpp)
 - [Nearly Lucky Number](110A_Nearly_Lucky_Number.cpp)
+- [Pangram](520A_Pangram.cpp)
 - [Petya and Strings](112A_Petya_and_Strings.cpp)
 - [Translation](41A_Translation.cpp)
 - [Ultra-Fast Mathematician](61A_UltraFast_Mathematician.cpp)
@@ -153,11 +155,12 @@
 </details>
 
 <details>
-<summary><b>Strings</b> (8)</summary>
+<summary><b>Strings</b> (9)</summary>
 
 - [Anton and Danik](734A_Anton_and_Danik.cpp)
 - [Boy or Girl](236A_Boy_or_Girl.cpp)
 - [Helpful Maths](339A_Helpful_Maths.cpp)
+- [Pangram](520A_Pangram.cpp)
 - [Petya and Strings](112A_Petya_and_Strings.cpp)
 - [Translation](41A_Translation.cpp)
 - [Way Too Long Words](71A_Way_Too_Long_Words.cpp)
