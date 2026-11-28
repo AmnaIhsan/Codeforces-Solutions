@@ -6,7 +6,7 @@
 
 [![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/platform-Codeforces-1f8acb?style=for-the-badge)](https://codeforces.com/)
-[![Solutions](https://img.shields.io/badge/solutions-25-2ea44f?style=for-the-badge)](#-statistics)
+[![Solutions](https://img.shields.io/badge/solutions-26-2ea44f?style=for-the-badge)](#-statistics)
 [![Sync](https://img.shields.io/badge/sync-Codeforces%20extension-8957e5?style=for-the-badge)](#-synchronization)
 
 [**Browse solutions**](#-solution-index) · [**Statistics**](#-statistics) · [**Topics**](#-topics) · [**Codeforces profile**](https://codeforces.com/profile/AmnaIhsan)
@@ -22,8 +22,8 @@
 
 | <sub>ACCEPTED SOLUTIONS</sub> | <sub>PRIMARY LANGUAGE</sub> | <sub>PROBLEM METADATA</sub> |
 |:---:|:---:|:---:|
-| <h2>25</h2> | <h2>C++</h2> | <h2>25/25</h2> |
-| ![Solutions](https://img.shields.io/badge/solutions-25-2ea44f?style=for-the-badge) | ![Language](https://img.shields.io/badge/C%2B%2B-100%25-00599C?style=for-the-badge) | ![Metadata](https://img.shields.io/badge/metadata-matched-8957e5?style=for-the-badge) |
+| <h2>26</h2> | <h2>C++</h2> | <h2>26/26</h2> |
+| ![Solutions](https://img.shields.io/badge/solutions-26-2ea44f?style=for-the-badge) | ![Language](https://img.shields.io/badge/C%2B%2B-100%25-00599C?style=for-the-badge) | ![Metadata](https://img.shields.io/badge/metadata-matched-8957e5?style=for-the-badge) |
 
 </div>
 
@@ -31,7 +31,7 @@
 
 | Codeforces rating | Solutions |
 |:--|--:|
-| 800 | 24 |
+| 800 | 25 |
 | 900–1199 | 1 |
 | 1200–1399 | 0 |
 | 1400+ | 0 |
@@ -44,8 +44,9 @@
 | Strings | 9 |
 | Math | 5 |
 | Brute Force | 4 |
-| Greedy | 3 |
+| Greedy | 4 |
 | Data Structures | 1 |
+| Dynamic Programming | 1 |
 | Sorting | 1 |
 | Two Pointers | 1 |
 
@@ -78,10 +79,11 @@
 | 19 | [Hulk](https://codeforces.com/problemset/problem/705/A) | 705 | 800 | Implementation | [C++](705A_Hulk.cpp) |
 | 20 | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 734 | 800 | Implementation, Strings | [C++](734A_Anton_and_Danik.cpp) |
 | 21 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 791 | 800 | Implementation | [C++](791A_Bear_and_Big_Brother.cpp) |
-| 22 | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 1030 | 800 | Implementation | [C++](1030A_In_Search_of_an_Easy_Problem.cpp) |
-| 23 | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 1328 | 800 | Math | [C++](1328A_Divisibility_Problem.cpp) |
-| 24 | [Subtract Operation](https://codeforces.com/problemset/problem/1656/B) | 1656 | 1100 | Data Structures, Greedy, Math, Two Pointers | [C++](1656B_Subtract_Operation.cpp) |
-| 25 | [Sum](https://codeforces.com/problemset/problem/1742/A) | 1742 | 800 | Implementation | [C++](1742A_Sum.cpp) |
+| 22 | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | 996 | 800 | Dynamic Programming, Greedy | [C++](996A_Hit_the_Lottery.cpp) |
+| 23 | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 1030 | 800 | Implementation | [C++](1030A_In_Search_of_an_Easy_Problem.cpp) |
+| 24 | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 1328 | 800 | Math | [C++](1328A_Divisibility_Problem.cpp) |
+| 25 | [Subtract Operation](https://codeforces.com/problemset/problem/1656/B) | 1656 | 1100 | Data Structures, Greedy, Math, Two Pointers | [C++](1656B_Subtract_Operation.cpp) |
+| 26 | [Sum](https://codeforces.com/problemset/problem/1742/A) | 1742 | 800 | Implementation | [C++](1742A_Sum.cpp) |
 <!-- SOLUTIONS:END -->
 
 ## 📚 Topics
@@ -105,9 +107,17 @@
 </details>
 
 <details>
-<summary><b>Greedy</b> (3)</summary>
+<summary><b>Dynamic Programming</b> (1)</summary>
+
+- [Hit the Lottery](996A_Hit_the_Lottery.cpp)
+
+</details>
+
+<details>
+<summary><b>Greedy</b> (4)</summary>
 
 - [Helpful Maths](339A_Helpful_Maths.cpp)
+- [Hit the Lottery](996A_Hit_the_Lottery.cpp)
 - [Subtract Operation](1656B_Subtract_Operation.cpp)
 - [Team](231A_Team.cpp)
 
